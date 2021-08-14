@@ -1,2 +1,2 @@
 # arduino-projects
- My arduino projects
+ My Arduino projects. 
